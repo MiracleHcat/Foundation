@@ -1,2 +1,3 @@
-﻿  Main.cpp
+﻿  Gambler.cpp
+E:\GitHub\Foundation\C_Project\Gambler.cpp(6,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   C_Project.vcxproj -> E:\GitHub\Foundation\C_Project\x64\Debug\C_Project.exe
